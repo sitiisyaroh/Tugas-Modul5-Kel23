@@ -1,0 +1,52 @@
+.Hcontainer {
+    margin-top: 15px;
+    color: #f0f0f0;
+    text-align: justify;
+  
+  }
+  
+  .avatar img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+  
+  }
+  
+  .putih {
+    color: #ccc;
+  }
+  
+  .hText {
+    font-weight: "bold";
+    color: "#fff";
+  }
+  
+  .headerTextDesc {
+    color: "#fff";
+  }
+  
+  .tekan {
+    align-self: "center";
+    background-Color: "#de7171";
+  }
+  
+  .bodyText {
+    color: "#efd";
+    font-size: 20px;
+    ;
+  }
+  
+  .next {
+    color: black;
+    margin: 20px;
+    align-Self: "center";
+    background-color: "#11C4B2";
+    padding: 5px 20px;
+    border-radius: 10px;
+    font-size: 16px;
+  }
+  
+  button:active {
+    background-color: skyblue;
+  }
+  
